@@ -1,0 +1,22 @@
+*resharper.user
+# Visual Studio
+[Dd]ebug/
+[Rr]elease/
+*.sln.cache
+*.suo
+*.csproj.user
+[Oo]bj
+[Bb]in
+*.user
+*.bak
+*.ncb
+*.log 
+*.DS_Store
+[Tt]humbs.db 
+Ankh.NoLoad
+
+
+
+# Resharper
+*[Rr]e[Ss]harper.user
+_ReSharper.*/
