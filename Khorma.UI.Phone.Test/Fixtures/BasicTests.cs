@@ -4,7 +4,7 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace Kharma.UI.Phone.Test.Fixtures
+namespace Khorma.UI.Phone.Test.Fixtures
 {
     using Microsoft.Silverlight.Testing;
     using Microsoft.VisualStudio.TestTools.UnitTesting;

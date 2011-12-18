@@ -6,11 +6,11 @@ using System.Resources;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Kharma.UI.Phone.Test")]
+[assembly: AssemblyTitle("Khorma.UI.Phone.Test")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Sogeti")]
-[assembly: AssemblyProduct("Kharma.UI.Phone.Test")]
+[assembly: AssemblyProduct("Khorma.UI.Phone.Test")]
 [assembly: AssemblyCopyright("Copyright © Sogeti 2011")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

@@ -4,7 +4,7 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace Kharma.UI.Phone.Test
+namespace Khorma.UI.Phone.Test
 {
     using System.Windows;
 

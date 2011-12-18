@@ -12,8 +12,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PRISM", "PRISM", "{CCF45F3C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Khorma.UI.Phone", "Khorma.UI.Phone\Khorma.UI.Phone.csproj", "{DF92F601-83EB-47CD-BB15-E40F0A84D292}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kharma.UI.Phone.Test", "Kharma.UI.Phone.Test\Kharma.UI.Phone.Test.csproj", "{2AE66C7A-6270-49F7-B4AB-A113A2DD19A4}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SL Unit Test", "SL Unit Test", "{F239BDFF-1E1B-4208-9865-C9241CABA2A1}"
 	ProjectSection(SolutionItems) = preProject
 		Libraries\SL UnitTest\Microsoft.Silverlight.Testing.dll = Libraries\SL UnitTest\Microsoft.Silverlight.Testing.dll
@@ -21,6 +19,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SL Unit Test", "SL Unit Tes
 		Libraries\SL UnitTest\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll = Libraries\SL UnitTest\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll
 		Libraries\SL UnitTest\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.pdb = Libraries\SL UnitTest\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.pdb
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Khorma.UI.Phone.Test", "Khorma.UI.Phone.Test\Khorma.UI.Phone.Test.csproj", "{2AE66C7A-6270-49F7-B4AB-A113A2DD19A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

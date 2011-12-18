@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.1">
-  <App xmlns="" ProductID="{ebda71aa-4d66-49ad-91b1-ed6cd174fb92}" Title="Kharma.UI.Phone.Test" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="Kharma.UI.Phone.Test author" Description="Sample description" Publisher="Kharma.UI.Phone.Test">
+  <App xmlns="" ProductID="{ebda71aa-4d66-49ad-91b1-ed6cd174fb92}" Title="Khorma.UI.Phone.Test" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="Khorma.UI.Phone.Test author" Description="Sample description" Publisher="Khorma.UI.Phone.Test">
     <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_GAMERSERVICES"/>
@@ -23,11 +23,11 @@
       <DefaultTask  Name ="_default" NavigationPage="MainPage.xaml"/>
     </Tasks>
     <Tokens>
-      <PrimaryToken TokenID="Kharma.UI.Phone.TestToken" TaskName="_default">
+      <PrimaryToken TokenID="Khorma.UI.Phone.TestToken" TaskName="_default">
         <TemplateType5>
           <BackgroundImageURI IsRelative="true" IsResource="false">Background.png</BackgroundImageURI>
           <Count>0</Count>
-          <Title>Kharma.UI.Phone.Test</Title>
+          <Title>Khorma.UI.Phone.Test</Title>
         </TemplateType5>
       </PrimaryToken>
     </Tokens>

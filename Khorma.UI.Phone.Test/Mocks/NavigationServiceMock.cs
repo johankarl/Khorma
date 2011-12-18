@@ -10,7 +10,7 @@ using System.Windows.Media.Animation;
 using System.Windows.Shapes;
 using Khorma.UI.Phone.Services;
 
-namespace Kharma.UI.Phone.Test.Mocks
+namespace Khorma.UI.Phone.Test.Mocks
 {
     public class NavigationServiceMock : INavigationService
     {

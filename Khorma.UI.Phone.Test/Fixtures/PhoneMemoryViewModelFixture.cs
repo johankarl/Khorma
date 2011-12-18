@@ -4,9 +4,9 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace Kharma.UI.Phone.Test.Fixtures
+namespace Khorma.UI.Phone.Test.Fixtures
 {
-    using Kharma.UI.Phone.Test.Mocks;
+    using Khorma.UI.Phone.Test.Mocks;
 
     using Khorma.UI.Phone.ViewModels;
 
