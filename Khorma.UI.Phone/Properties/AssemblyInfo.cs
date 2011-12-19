@@ -9,9 +9,9 @@ using System.Resources;
 [assembly: AssemblyTitle("Khorma.UI.Phone")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Sogeti")]
+[assembly: AssemblyCompany("Maazart")]
 [assembly: AssemblyProduct("Khorma.UI.Phone")]
-[assembly: AssemblyCopyright("Copyright © Sogeti 2011")]
+[assembly: AssemblyCopyright("Copyright © Maazart 2011")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
