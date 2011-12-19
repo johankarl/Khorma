@@ -20,9 +20,9 @@
     </SupportedCultures>
     <XapOutputs>true</XapOutputs>
     <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
-    <XapFilename>Kharma.UI.Phone.Test.xap</XapFilename>
+    <XapFilename>Khorma.UI.Phone.Test.xap</XapFilename>
     <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
-    <SilverlightAppEntry>Kharma.UI.Phone.Test.App</SilverlightAppEntry>
+    <SilverlightAppEntry>Khorma.UI.Phone.Test.App</SilverlightAppEntry>
     <ValidateXaml>true</ValidateXaml>
     <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
   </PropertyGroup>
