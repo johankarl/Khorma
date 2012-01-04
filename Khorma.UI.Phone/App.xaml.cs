@@ -1,6 +1,6 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
 // <copyright file="App.xaml.cs" company="Maazart">
-//   Copyright (c) Maazart. All rights reserved.
+//   Copyright (c) Maazart. All rights reserved. and GOOGLE!
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
