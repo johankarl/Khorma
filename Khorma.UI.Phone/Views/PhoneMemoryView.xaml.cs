@@ -20,6 +20,7 @@ namespace Khorma.UI.Phone.Views
         /// </summary>
         public PhoneMemoryView()
         {
+            //Just a test
             this.InitializeComponent();
         }
 
